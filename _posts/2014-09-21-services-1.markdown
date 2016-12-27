@@ -6,6 +6,6 @@ title: Prestations
 description: |
 ---
   Nous privilégions l'interaction directe et le franc parler.
-  Allant de la prestation chez le client à la livraison logicielle
+  Allant de la prestation chez le client, à la livraison logicielle
   type freelance en passant par le conseil, 
   nous mettons un point d'honneur à réaliser vos idées
