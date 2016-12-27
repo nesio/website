@@ -1,8 +1,9 @@
 ---
 layout: default
-img: dog.png
+img: chart.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: L'Univers Nesio
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Besoin d'un nouvel outils informatique, Besoin de challenger vos processus digitaux, Besoin de redéfinir vos stratégies commerciales ...
+Nesio peut vous accompagner & vous donner les clés de la réussites du monde 3.0 
