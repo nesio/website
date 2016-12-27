@@ -2,9 +2,10 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Prestations 
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Nous privilégions l'interaction directe et le franc parler.
+  Allant de la prestation chez le client à la livraison logicielle
+  type freelance en passant par le conseil, 
+  nous mettons un point d'honneur à réaliser vos idées
