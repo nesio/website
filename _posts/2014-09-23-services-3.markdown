@@ -2,7 +2,10 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Nos Valeurs
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+ Proche du monde de l'Open source et de ses valeurs de partage,
+ nous pouvons vous former sur les technologies de demain et vous accompagner dans
+ la prise en main de nouveaux outils de pilotage. <br>
+ N'hésitez pas a prendre contact avec nous par mail <br>contact@nesio.co 

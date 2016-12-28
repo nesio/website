@@ -2,7 +2,7 @@
 layout: default
 img: business.png
 category: Services
-title: Prestations 
+title: Nos Services  
 description: |
 ---
   Nous privilégions l'interaction directe, la réactivité et la simplicité.
