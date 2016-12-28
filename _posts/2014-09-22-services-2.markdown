@@ -5,5 +5,5 @@ category: Services
 title: Notre Expertise
 description: |
 ---
-  Besoin d'un nouvel outils informatique, de challenger vos processus digitaux, de redéfinir vos stratégies commerciales ou de prospections ?<br>
+  Besoin de réduire le coût de vos stocks, d'un nouvel outils informatique, de challenger vos processus digitaux, de redéfinir vos stratégies commerciales ou de prospections ?<br>
 Fort de son expérience, Nesio vous donnera les clés de la réussite du monde d'aujourd'hui
