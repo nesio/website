@@ -8,8 +8,9 @@ email: nesilio@gmail.com
 author: Guillaume Ottavianoni
 description: #< 'Nesio une start-up qui propose des solutions Métiers et IT comme en prestation dans les alentours de Toulouse & Castelnaudary
 copyright: 'Copyright &copy; 2016 Nesio All Rights Reserved.'
-credits: 'Credits : Inspired by Landing Page a <a href="http://startbootstrap.com/">Start Bootstrap</a> theme <br> 
-Hosted by <a href="https://github.io/">Github</a>
+credits: 'Credits : Powered by <a href="https://jekyllrb.com/">Jekyll</a><br>
+Hosted by <a href="https://pages.github.com/">Github</a><br>
+Inspired by <a href="http://startbootstrap.com/">Start Bootstrap</a>
 '
 
 # ----------------------- #
