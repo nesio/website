@@ -1,10 +1,10 @@
 ---
 layout: default
-img: phones.png
+img: services-wmt.png
 category: Services
 title: Nos Valeurs
 description: |
 ---
  Proche du monde de l'Open source et de ses valeurs de partage,
- nous organisons des formations sur les technologies de demain <br>
+ nous organisons des formations sur les technologies de demain. <br>
  N'hésitez pas a nous écrire <br><bold>contact@nesio.co</bold>
