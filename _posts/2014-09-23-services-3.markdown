@@ -7,4 +7,4 @@ description: |
 ---
  Proche du monde de l'Open source et de ses valeurs de partage,
  nous organisons des formations sur les technologies de demain. <br>
- Posez-nous vos questions ! <a href="contact@nesio.co">contact@nesio.co</a>
+ Posez-nous vos questions ! <a href="mailto:contact@nesio.co">contact@nesio.co</a>
