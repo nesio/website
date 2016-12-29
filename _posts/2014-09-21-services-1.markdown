@@ -7,5 +7,5 @@ description: |
 ---
   Nous privilégions l'interaction directe, la réactivité et la simplicité.
   Allant de la prestation chez le client, à la livraison logicielle
-  type freelance en passant par le conseil,
+  type freelance en passant par le conseil ou la formation,
   nous mettons un point d'honneur à réaliser vos idées

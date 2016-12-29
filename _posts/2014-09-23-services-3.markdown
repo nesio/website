@@ -6,6 +6,5 @@ title: Nos Valeurs
 description: |
 ---
  Proche du monde de l'Open source et de ses valeurs de partage,
- nous pouvons vous former sur les technologies de demain et vous accompagner dans
- la prise en main de nouveaux outils de pilotage. <br>
- N'hésitez pas a prendre contact avec nous par mail <br>contact@nesio.co 
+ nous pouvons vous former sur les technologies de demain <br>
+ N'hésitez pas a nous écrire <br><bold>contact@nesio.co</bold>
