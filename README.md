@@ -8,8 +8,7 @@ Solutions en Data, Business & Agilité
 
 ===
 
-Powered by Jekyll [documentation](http://jekyllrb.com/). <br>
-Inspirated by StartBootstrap [documentation](http://jekyllrb.com/).
+Powered by [Jekyll](http://jekyllrb.com/). <br>
 
 ## License
 The contents of this repository are licensed under the [Apache
