@@ -4,7 +4,7 @@ Page web de la société Nesio
 Solutions en Data, Business & Agilité
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+![screenshot](https://github.com/nesio/website/blob/gh-pages/img/screenshot.png?raw=true)
 
 ===
 
