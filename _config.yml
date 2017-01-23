@@ -1,7 +1,8 @@
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
-
+# Google services
+google_analytics: UA-90765310-1
 url: https://nesio.github.io/website/
 title: Nesio
 email: nesilio@gmail.com
