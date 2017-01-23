@@ -9,6 +9,7 @@ Solutions en Data, Business & Agilité
 ===
 
 Powered by [Jekyll](http://jekyllrb.com/). <br>
+Inspirated by [Bootstrap](http://getbootstrap.com/).
 
 ## License
 The contents of this repository are licensed under the [Apache
