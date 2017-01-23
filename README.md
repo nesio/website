@@ -1,4 +1,4 @@
-# Landing Page Jekyll theme
+# Nesio Solutions
 
 Page web de la société Nesio
 Solutions en Data, Business & Agilité
@@ -8,7 +8,7 @@ Solutions en Data, Business & Agilité
 
 ===
 
-Powered by Jekyll [documentation](http://jekyllrb.com/).
+Powered by Jekyll [documentation](http://jekyllrb.com/). <br>
 Inspirated by StartBootstrap [documentation](http://jekyllrb.com/).
 
 ## License
