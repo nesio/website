@@ -12,8 +12,8 @@ Powered by [Jekyll](http://jekyllrb.com/). <br>
 Inspirated by [Bootstrap](http://getbootstrap.com/).
 
 ## License
-The contents of this repository are licensed under the [Apache
+Le contenu de ce site est sous licence [Apache
 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
 
 ## Version
-1.0.1
+1.0
