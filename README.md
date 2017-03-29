@@ -1,7 +1,7 @@
 # Nesio Solutions
 
-Page web de la société [Nesio](https://nesio.github.io/website) <br>
-Solutions en Data, Business & Agilité
+Page web de la sociÃ©tÃ© [Nesio](https://nesio.github.io/nesio) <br>
+Solutions en Data, Business & AgilitÃ©
 
 ## Screenshot
 ![screenshot](https://github.com/nesio/website/blob/gh-pages/img/screenshot.png?raw=true)
